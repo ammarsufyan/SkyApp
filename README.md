@@ -1,7 +1,6 @@
 # SkyApp #
 
-**Disusun Oleh Kelompok 1 TI 2020 C UIN Jakarta
-
+**Disusun Oleh Kelompok 1 TI 2020 C UIN Jakarta**
 1. Ammar Sufyan			        (11200910000054)
 2. Alif Faqih Azmi Hakim		(11200910000058)
 3. Achmad Aditiansah		    (11200910000060)
@@ -41,15 +40,15 @@ Dengan banyaknya kekurangan dalam pembuatan aplikasi ini kami berharap di kemudi
 
 ### Menu Topup
 
-**Saldo:
+**Saldo:**
 
 ![image](https://user-images.githubusercontent.com/63483228/128991193-c73c9822-b097-415b-847f-f39ead3d98a9.png)
 
-**Game:
+**Game:**
 
 ![image](https://user-images.githubusercontent.com/63483228/128991253-ea42d7e8-55a1-4f5e-b1fe-7e0fde677b6e.png)
 
-**Aplikasi:
+**Aplikasi:**
 
 ![image](https://user-images.githubusercontent.com/63483228/128991531-6f4a014d-938e-4739-a9e1-c7a971ff00d3.png)
 
